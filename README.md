@@ -29,6 +29,6 @@ After deployment, users can engage with the contracts in the following manner:
 
 These contracts are licensed under the MIT License. Refer to the individual contract files for comprehensive details.
 
-## Author
+## Contact
 
 kalpak023@gmail.com
